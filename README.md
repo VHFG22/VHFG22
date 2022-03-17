@@ -3,11 +3,6 @@
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning how to git
 
-<div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VHFG22&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VHFG22&layout=compact&langs_count=16&theme=calm"/>
-</div>
-
 ![Snake animation](https://github.com/VHFG22/VHFG22/blob/output/github-contribution-grid-snake.svg)
 
 <!--

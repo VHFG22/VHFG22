@@ -3,14 +3,14 @@
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning how to git
 
+You're visitor number ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=VHFG22.visitor-badge)
+
 ![Snake animation](https://github.com/VHFG22/VHFG22/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **VHFG22/VHFG22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

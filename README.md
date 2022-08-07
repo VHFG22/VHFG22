@@ -3,7 +3,9 @@
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning how to git
 
-You're visitor number ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=VHFG22.visitor-badge)
+You're visitor number ![visitors](https://visitor-badge.glitch.me/badge?page_id=VHFG22&left_color=green&right_color=red)
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=VHFG22.visitor-badge)
 
 ![Snake animation](https://github.com/VHFG22/VHFG22/blob/output/github-contribution-grid-snake.svg)
 

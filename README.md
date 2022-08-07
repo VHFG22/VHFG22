@@ -5,8 +5,6 @@
 
 You're visitor number ![visitors](https://visitor-badge.glitch.me/badge?page_id=VHFG22)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=VHFG22.visitor-badge)
-
 ![Snake animation](https://github.com/VHFG22/VHFG22/blob/output/github-contribution-grid-snake.svg)
 
 <!--

@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/VHFG22/VHFG22/blob/output/github-contribution-grid-snake.svg)
+![Camo](https://cloud.githubusercontent.com/assets/38/24514552/88f29edc-1529-11e7-832f-6d2942144c87.gif)
 ### Hi there 👋
 - 👋 I’m @VHFG22
 - 👀 I’m interested in Cybersecurity

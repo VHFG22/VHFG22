@@ -2,7 +2,6 @@
 ### Hi there 👋
 - 👋 I’m @VHFG22
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning how to git
 
 https://tryhackme.com/r/p/VHFG22
 

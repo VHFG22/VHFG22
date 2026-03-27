@@ -5,8 +5,6 @@
 
 https://tryhackme.com/r/p/VHFG22
 
-![My tryhackme profile](https://tryhackme-badges.s3.amazonaws.com/VHFG22.png)
-
 
 ![Snake animation](https://github.com/VHFG22/VHFG22/blob/output/github-contribution-grid-snake.svg)
 
